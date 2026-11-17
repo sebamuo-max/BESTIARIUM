@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "Aureon, el dragon solar",
+    "category": "Dragon",
+    "danger": "Extremo",
+    "region": "Cumbres de Ceniza",
+    "description": "Una criatura ancestral cuyas escamas guardan el calor de una estrella moribunda. Solo aparece cuando el cielo se tiñe de rojo.",
+    "abilities": [
+      "Aliento solar",
+      "Vuelo de tormenta",
+      "Piel incandescente"
+    ],
+    "color": "#d99a43",
+    "symbol": "☼"
+  },
+  {
+    "id": 2,
+    "name": "Nymira, la guardiana del bosque",
+    "category": "Espiritu",
+    "danger": "Moderado",
+    "region": "Bosque de los Susurros",
+    "description": "Espiritu protector de los arboles antiguos. Su presencia hace florecer la tierra incluso en el invierno mas cruel.",
+    "abilities": [
+      "Regeneracion",
+      "Raices vivientes",
+      "Camuflaje natural"
+    ],
+    "color": "#86a878",
+    "symbol": "✧"
+  },
+  {
+    "id": 3,
+    "name": "Vharok, el acechador abisal",
+    "category": "Demonio",
+    "danger": "Alto",
+    "region": "Fosas del Ocaso",
+    "description": "Entidad de las profundidades que se desplaza entre sombras. Se dice que imita voces para atraer viajeros.",
+    "abilities": [
+      "Paso sombrio",
+      "Eco ilusorio",
+      "Garras espectrales"
+    ],
+    "color": "#9b82c8",
+    "symbol": "◈"
+  },
+  {
+    "id": 4,
+    "name": "Ignis, el ave renaciente",
+    "category": "Ave mitica",
+    "danger": "Alto",
+    "region": "Desierto Carmesi",
+    "description": "Ave envuelta en llamas doradas. Cuando su cuerpo se consume, renace de sus propias cenizas.",
+    "abilities": [
+      "Renacimiento",
+      "Plumas ardientes",
+      "Luz purificadora"
+    ],
+    "color": "#df7951",
+    "symbol": "♨"
+  },
+  {
+    "id": 5,
+    "name": "Thalassor, el coloso marino",
+    "category": "Bestia",
+    "danger": "Extremo",
+    "region": "Mar de los Naufragios",
+    "description": "Gigante de los oceanos cuya silueta puede confundirse con una isla. Sus movimientos provocan mareas inmensas.",
+    "abilities": [
+      "Control de mareas",
+      "Piel de coral",
+      "Canto abisal"
+    ],
+    "color": "#6da6b5",
+    "symbol": "≈"
+  },
+  {
+    "id": 6,
+    "name": "Griff, el vigia de piedra",
+    "category": "Bestia",
+    "danger": "Moderado",
+    "region": "Fortaleza de Arken",
+    "description": "Guardian alado de antiguas fortalezas. Permanece inmovil durante siglos hasta detectar una amenaza.",
+    "abilities": [
+      "Vista aguda",
+      "Vuelo rasante",
+      "Armadura petrea"
+    ],
+    "color": "#b6a17b",
+    "symbol": "⌁"
+  },
+  {
+    "id": 1794786207858,
+    "name": "Kola",
+    "category": "Demonio",
+    "danger": "Moderado",
+    "region": "Bosque",
+    "description": "Animal neutro",
+    "abilities": [
+      "herbivoro giggante"
+    ],
+    "color": "#ffffff",
+    "symbol": "✧"
+  }
+]
