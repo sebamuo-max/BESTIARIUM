@@ -3,23 +3,10 @@ require('dotenv').config();
 
 const express = require('express');
 const cors = require('cors');
-const { Pool } = require('pg');
+const pool = require('./database');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
-
-// Conexion con PostgreSQL (Neon)
-const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: {
-    rejectUnauthorized: false
-  }
-});
-
-// Detectar errores de conexion
-pool.on('error', (error) => {
-  console.error('Error inesperado en PostgreSQL:', error);
-});
 
 app.use(cors({
   origin: process.env.FRONTEND_URL
